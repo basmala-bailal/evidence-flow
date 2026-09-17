@@ -137,7 +137,7 @@ export default function LandingPage() {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-1.5 mb-8 bg-primary-light text-primary text-xs font-semibold rounded-full tracking-wide uppercase">
             <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse-ring" />
-            Challenge C07
+            Schmitz-Stiftungen · Förderportal C07
           </div>
 
           {/* Headline */}
@@ -352,10 +352,10 @@ export default function LandingPage() {
             </span>
           </div>
           <p className="text-xs text-muted">
-            Hackathon prototype — Challenge C07 · Synthetic exercise data only
+            Schmitz-Stiftungen Hackathon Prototype · Challenge C07 · Synthetic exercise data only
           </p>
           <p className="text-xs text-muted">
-            Final application decisions are made by human reviewers.
+            Final grant decisions remain strictly with foundation caseworkers.
           </p>
         </div>
       </footer>
